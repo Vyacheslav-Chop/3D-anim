@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "3d-anim",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/3D-anim/",
     "preview": "vite preview"
   },
   "devDependencies": {
